@@ -226,7 +226,7 @@ In C++, polymorphism can be either
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20200703160531/Polymorphism-in-CPP.png)
 
-You can refere following URL for more information on Polymorphism
+You can refer following URL for more information on Polymorphism
 [**click here**](https://www.geeksforgeeks.org/polymorphism-in-c/?ref=lbp)
 
 ---
@@ -303,7 +303,7 @@ As the name suggests, in this type of inheritance, there are multiple levels of 
 
 ### <b>Multiple Inheritance</b>
 
-When one child cass inherits properties of  more than one classes.
+When one child class inherits properties of  more than one classes.
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/multiple-inheritance.png)
 
@@ -319,7 +319,7 @@ Hybrid Inheritance is implemented by combining more than one type of inheritance
 
 ![imageFor markdown syntax](https://media.geeksforgeeks.org/wp-content/uploads/Hybrid-Inheritance.png)
 
-You can refere following URL for more information on Inheritance
+You can refer following URL for more information on Inheritance
 [**click here**](https://www.geeksforgeeks.org/inheritance-in-c/)
 
 
@@ -327,7 +327,7 @@ You can refere following URL for more information on Inheritance
 <br />
 
 
-## Resouces :-
+## Resources :-
 1. Object-Oriented Programming with C++ by E. Balgurusamy
 2. https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=lbp
 
